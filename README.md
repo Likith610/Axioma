@@ -1,4 +1,4 @@
-# Fly Connectome Simulation
+# Axioma — Fruit Fly Connectome Simulation
 
 A complete biological simulation of a fruit fly using the real Princeton connectome (neurons + synaptic connections). Sensors feed through real synapses to motor neurons; behavior is emergent and modulated by circadian, sleep, dopamine, temperature, gut, and environmental fields.
 
@@ -23,7 +23,7 @@ The CSV data files are **not tracked by git** (too large / 100 MB/file limit). T
 
 **Download from Releases:**
 1. Go to the repo's **Releases** page on GitHub.
-2. Download `zabrain-data.zip`.
+2. Download `axioma-data.zip`.
 3. Unzip into this repo folder so you have:
    - `neurons.csv`
    - `connections_princeton.csv`
@@ -33,7 +33,7 @@ The CSV data files are **not tracked by git** (too large / 100 MB/file limit). T
 **To create the release zip yourself:**
 ```bash
 python make_release_zip.py
-# Then upload zabrain-data.zip to GitHub Releases
+# Then upload axioma-data.zip to GitHub Releases
 ```
 
 **Files needed at repo root:**
