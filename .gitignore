@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Data files (download separately — see README)
+data/*.csv
+connections_princeton.csv
+neurons.csv
+active_neurons.csv
+*.res.csv
+*.csv
+
+# Outputs / logs
+out*.txt
+err.txt
+test_output.txt
+fly_response.csv
+
+# Backup
+backup/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
+
+# Large binaries (if added later via Git LFS, keep these listed; otherwise ignore)
+*.png
+*.jpg
+*.jpeg
+
+# Test coverage
+.coverage
+htmlcov/
+coverage.xml
+
+# Misc
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
