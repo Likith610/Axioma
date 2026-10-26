@@ -1,6 +1,7 @@
 # Axioma — Fruit Fly Connectome Simulation
 
 A complete biological simulation of a fruit fly using the real Princeton connectome (neurons + synaptic connections). Sensors feed through real synapses to motor neurons; behavior is emergent and modulated by circadian, sleep, dopamine, temperature, gut, and environmental fields.
+<img width="2880" height="1920" alt="neuroscience-breakthro-2" src="https://github.com/user-attachments/assets/63a04397-1175-48a6-ac43-f736dd967053" />
 
 ## What's inside
 
