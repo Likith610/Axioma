@@ -31,6 +31,9 @@ fly_response.csv
 # Backup
 backup/
 
+# Release zip
+zabrain-data.zip
+
 # IDE / OS
 .idea/
 .vscode/
