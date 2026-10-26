@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 Requires `pandas` and `numpy`.
 
-## Data (Option 2 — GitHub Releases)
+## Data (GitHub Releases)
 
 The CSV data files are **not tracked by git** (too large / 100 MB/file limit). They are critical for the simulation.
 
